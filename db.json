@@ -7,5 +7,32 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "lista": [
+  {
+    id: 1,
+    title: "Reloj Verde",
+    precio: 69000,
+    img: "./img/relojHombreVerde.webp",
+  },
+  {
+    id: 2,
+    title: "Reloj Dorado",
+    precio: 179090,
+    img: "./img/relojHombreDorado.webp",
+  },
+  {
+    id: 3,
+    title: "Reloj Negro",
+    precio: 110000,
+    img: "./img/relojHombreNegro.webp",
+  },
+  {
+    id: 4,
+    title: "Reloj Azul",
+    precio: 145999,
+    img: "./img/relojHombreAzul.webp",
+  },
+];
+
 }
